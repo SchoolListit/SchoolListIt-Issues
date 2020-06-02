@@ -2,7 +2,7 @@
 
 You've come to the right place to give feedback on SchooListIt features and user interface. Thank you for using SchooListIt and caring enough to share your thoughts. 
 
-## Visit the Issues Tab, pen a new issue, label it
+## Visit the Issues Tab, open a new issue, label it
 Issues on SchooListIt should be labeled either as a bug or a feature request. Someone from the development team will respond with comments and progress reports or to close the issue. 
 
 ## Contribute with code, wiki, marketing, or legal
