@@ -10,3 +10,13 @@ As you can see, this is not the code repository. We are however open to contribu
 - documentation: official wiki documetation for the app
 - marketing: copy, blogging, how-to videos to post on SchooListIt.com
 - legal: privacy policies, user agreements, etc.
+
+### Contributing Process
+- visit issues tab
+- **sort by recently updated**
+- choose a good first bug
+- ping me if you have questions
+- branch
+- pull request
+
+*It is important to sort by recently updated because many of these tickets are older and I have moved on from that idea as the system has matured.*
