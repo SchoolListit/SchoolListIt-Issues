@@ -1,4 +1,4 @@
-# SchooListIt Help
+# School List It Help
 
 You've come to the right place to give feedback on SchooListIt features and user interface. Thank you for using SchooListIt and caring enough to share your thoughts. 
 
